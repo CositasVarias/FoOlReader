@@ -4,20 +4,20 @@
 // available themes at fresh install: default, foolrulez, blueharu
 // you can find PSDs of blueharu's banner in its image folder
 // make sure you try all the themes to check which fits you best!
-$fr_selected_theme = "default";
+$fr_selected_theme = "aracnido";
 
 // your group's name.
-$fr_html_groupname = "Generic group scans";
+$fr_html_groupname = "Araña Fansub";
 
 // the year your group was created. This goes in the credits of some themes.
-$fr_html_startyear = "2010";
+$fr_html_startyear = "2006";
 
 // website's name at the top of the screen
-$fr_html_title = "manga reader";
+$fr_html_title = "Araña Fansub";
 
 // URL for "Go back to site ↵" link. Write it with full URL, in example: http://foolrulez.org/blog/
 // if you don't write anything, the link simply won't appear.
-$fr_html_back = "";
+$fr_html_back = "http://aranafansub.moe";
 
 // website's description for search engines
 $fr_html_description = "Manga reader";
@@ -30,8 +30,6 @@ $fr_settings_preload_backwards = "2";
 
 // pages to preload forward (prioritizes first half) (and don't be stingy)
 $fr_settings_preload_forward = "6";
-
-
 
 
 /*    This is a theme changer that can be used by adding ?theme=nameoftheme in the URL. Uncomment this section to use it.

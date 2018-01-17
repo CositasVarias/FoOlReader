@@ -1,0 +1,9 @@
+<!-- Cambiar el nombre del archivo a description.txt -->
+<!-- Ver el archivo readme.html para más información -->
+<b>Autor:</b> 
+<br/><b>Género:</b> 
+<br/><b>Demografía:</b> 
+<br/><b>Editado por:</b> 
+<br/><b>Año:</b> 
+<br/><b>Estado:</b> 
+	<!-- Estado: [Completo|En proceso|Dropeado] -->
