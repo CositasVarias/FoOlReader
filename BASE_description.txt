@@ -6,4 +6,4 @@
 <br/><b>Editado por:</b> 
 <br/><b>Año:</b> 
 <br/><b>Estado:</b> 
-	<!-- Estado: [Completo|En proceso|Dropeado] -->
+	<!-- Estado: [Completo|En proceso|Abandonado] -->

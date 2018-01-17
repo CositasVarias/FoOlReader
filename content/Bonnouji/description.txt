@@ -1,9 +1,0 @@
-<!-- Cambiar el nombre del archivo a description.txt -->
-<!-- Ver el archivo readme.html para más información -->
-<b>Autor:</b> Aki Eda
-<br/><b>Género:</b> Romance, Slice of Life, Comedia.
-<br/><b>Demografía:</b> Seinen
-<br/><b>Editado por:</b> Comic Flapper
-<br/><b>Año:</b> 2008
-<br/><b>Estado:</b> Completo
-<!-- [Completo|En proceso|Dropeado] -->
