@@ -1,5 +1,5 @@
 # FoOlReader
-Lector de manga sencillo desarrollado en *PHP* por [Woxxy](https://github.com/woxxy/FoOlReader), para más información sobre su desarrollo y pautas a tener en cuenta revisar el archivo *readme.html*.
+Lector de manga sencillo desarrollado en *PHP* por [Woxxy](https://github.com/woxxy/FoOlReader), para más información sobre su desarrollo y pautas a tener en cuenta revisar el archivo *[readme.html](readme.html)*.
 # ¿Y esto qué es?
 Es un fork del proyecto de Woxxy al cual se le realizó modificaciones menores, con el fin de personalizarlo para el *scanlation* [Araña Fansub](http://aranafansub.moe)
 # ¿Y qué se le hizo?
