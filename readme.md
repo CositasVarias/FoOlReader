@@ -12,7 +12,7 @@ Resumiendo, lo más importante fue:
 Todo lo referente al proyecto, incluyendo su instalación, está en el archivo *[readme.html](readme.html)*, si hay algo que agregar aquí es la estructura de referencia dentro de la carpeta *content/*, donde los tomos de los proyectos se dejarán:
 
 ![content](https://raw.githubusercontent.com/CositasVarias/FoOlReader/master/content.jpg)
-[[content.jpg]|alt='content']
+
 
 # Licencia 
 MIT
